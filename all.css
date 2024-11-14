@@ -4,6 +4,11 @@
 
 }
 
+body {
+    background-image: url("./images/bg.png");
+    background-repeat: repeat-x;
+}
+
 p {
     max-width: 600px;
     color: blue;
